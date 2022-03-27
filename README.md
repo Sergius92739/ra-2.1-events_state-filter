@@ -2,7 +2,7 @@
 
 # Портфолио с фильтрами
 
-#### Deployment:  <a href="">Github Pages</a>
+#### Deployment:  <a href="https://sergius92739.github.io/ra-2.1-events_state-filter/">Github Pages</a>
 
 ---
 
